@@ -1,6 +1,6 @@
-# WARNING: This repository is no longer maintained :warning:
+# WARNING: 
 
-> This repository will not be updated. The repository will be kept available in read-only mode. 
+> This repository will be updated. 
 
 # Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
 
