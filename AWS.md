@@ -1,3 +1,7 @@
+# WARNING: 
+
+> This repository will be updated. 
+
 # Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
 
 In this code pattern, we will create a chatbot using Node.js and Watson Assistant. The Assistant flow will detect customer emotions and be enhanced by using Natural Language Understanding to identify location entities. For FAQs, a call to the Discovery service will use passage retrieval to pull answers from a collection of documents.
@@ -227,3 +231,4 @@ The web app presents a customer service chatbot. Interact with the chatbot by pr
 This code pattern is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+>>>>>>> 0a7b0d6b99c7e108b529cbf8ebb1cc4313046399
